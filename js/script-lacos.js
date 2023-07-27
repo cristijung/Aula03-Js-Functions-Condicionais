@@ -33,6 +33,7 @@
 // );
 //----------------------------------------------------------------------
 //FOR IN e FOR OFF
+//for in
 const capitais = {
     a: "Porto Alegre",
     b: "Florianópolis",
@@ -49,4 +50,26 @@ for (const fruta of frutas) {
     console.log(fruta);
 }
 
+const palavra = 'oie';
+for (const letra of palavra) {
+  console.log(letra);
+}
 
+//------------------------------------------------
+//Do While e While
+
+let contador = 0;
+const loopDoWhile = () => {
+  do {
+    console.log(`Contador: ${contador}`);
+    contador++;
+  } while (contador <= 10);
+}
+
+loopDoWhile();
+
+let salario = 5000;
+while (salario < 10000) {
+  salario += 100;
+  console.log(`O salário r: ${salario}`);
+}
