@@ -1,6 +1,8 @@
 # Aula03 Js Functions & Condicionais
 Repositório de Aula
 
+## Link do material de aula:
+(https://docs.google.com/document/d/1trkL_rliKACUQh-VqbeEFi6vu6VDgRNRVwnu-0CzSaU/edit?usp=sharing)
 ## Tópicos da aula:
 - Estruturas Condicionais
 - Trabalhando com Booleano
